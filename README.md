@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayushsharma707&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma707" />
 </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me: 
   <a href="mailto:ayushsharma70797@gmail.com" style="text-decoration: none; color: black;">
